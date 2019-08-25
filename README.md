@@ -1,0 +1,2 @@
+# GPhotos.NET
+Privacy policy
