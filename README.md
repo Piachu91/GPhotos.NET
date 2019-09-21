@@ -3,15 +3,15 @@
 ### GDrive.NET - Client for Google Drive
 Application is manager for Google Drive on Windows 10 platform.
 With this app, you can:
-*view all of your files,
-*automatically upload photos to cloud,
-*seach for them,
-*easily share them with other users,
-*see files that others share for you,
-*log into multiple accounts and easily switch between them,
-*quickly access recent, photos and starred files,
-*and more!
-<a href='//www.microsoft.com/store/apps/9NBLGGH3RM3R?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='Micrososft Store' style='width: 2184px; height: 104px;'/></a>
+- view all of your files,
+- automatically upload photos to cloud,
+- seach for them,
+- easily share them with other users,
+- see files that others share for you,
+- log into multiple accounts and easily switch between them,
+- quickly access recent, photos and starred files,
+- and more!
+<a href='//www.microsoft.com/store/apps/9NBLGGH3RM3R?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='Micrososft Store' style='width: 218px; height: 104px;'/></a>
 # Privacy Policy
 User login info is ONLY used for managing user data on Google Drive - to deliver advertised funtionality, on user command. Only place where users account data, photos, etc are exchanged is Google services, which falls under their privacy policy ([available here](https://policies.google.com/privacy)).
 
