@@ -15,7 +15,7 @@ With this app, you can:
 User login info is ONLY used for managing user data on Google Drive - to deliver advertised funtionality, on user command. Only place where users account data, photos, etc are exchanged is Google services, which falls under their privacy policy ([available here](https://policies.google.com/privacy)).
 
 
-## GPhotos - Client for Google Photos
+## GPhotos.NET - Client for Google Photos
 Application is manager for Google Photos on Windows 10 platform.
 With this app, you can:
 - browse photos & albums,
