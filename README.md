@@ -1,4 +1,4 @@
-## Client for Google Drive(TM) - GDrive.NET
+## Client for Google Drive(TM) - GDrive for Google Drive
 Application is manager for Google Drive on Windows 10 platform.
 With this app, you can:
 - view all of your files,
