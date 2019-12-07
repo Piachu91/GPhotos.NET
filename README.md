@@ -3,7 +3,7 @@ Application is manager for Google Drive on Windows 10 platform.
 With this app, you can:
 - view all of your files,
 - automatically upload photos to cloud,
-- seach for them,
+- search for them,
 - easily share them with other users,
 - see files that others share for you,
 - log into multiple accounts and easily switch between them,
